@@ -1,0 +1,25 @@
+ALGORITHM SKETCH:
+The problem I am trying to solve is essentially a Machine Learning Problem.
+My program partially learns about the behavior of the bitcoin and my AI is able
+to judge what the user should do in the current situation. A challenge is that 
+bitcoins are extremely volatile, unlike most other stocks.
+I run two simultaneous algorithms. I write my own functions in linear algebra
+to compute a least squares approximation, which I further use for curve fitting
+and perform a linear regression on the bitcoin prices for the past one day to 
+determine the recent trend.
+Next, I take the average of the last twenty maximas in history and set that as 
+my resistance line. Similarly, I take the average of the last twenty minimas in 
+history and set that as the support line. If the current bitcoin price is in 
+the neighborhood of the resistance line, then sell, because it might bounce 
+off below. Else if current bitcoin price is in the neighborhood of the 
+support line, then buy, because it might bounce up. Neighborhood here, is,
+10 cents to the price to improve accuracy and increase profit. 
+If the current bitcoin price is somewhere in between, wait and tell the user
+what to do based on their intention and the trend that I just determined from
+the linear regression technique. In special cases, the algorithm tells you to 
+wait so that you can sell at a higher price or buy at a lower price based on 
+your intention. If you press "FREEZE" in that special case, you will be prompted
+to buy/sell whenever it's best suited, provided the app remains open and you 
+stay at the Predict page. 
+
+Press A to go back.

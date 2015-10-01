@@ -1,0 +1,66 @@
+Timesheet
+
+Summary
+Hours spent: 75:25
+
+Last updated: December 4, 2014 - 1200 hours
+
+Detail
+
+Saturday, November 15, 2014: Hours spent: 10:40
+1300 to 1440 hours: Wrote code to extract data from URL
+1640 to 2140 hours: Wrote code to normalize extracted data, did competitive analysis and researched about Machine Learning
+2300 to 0300 hours: Saw lectures on Machine Learning, Regression, Gradient Descent
+
+From this point on, time recorded by RescueTime.com
+
+Sunday, November 16, 2014: Hours spent: 05:30
+
+Monday, November 17, 2014: Hours spent: 00:00
+
+Tuesday, November 18, 2014: Hours spent: 03:00
+
+Wednesday, November 19, 2014: Hours spent: 04:30
+Implemented a rough sketch of a linear regression for the short term algorithm. Attended lecture on Machine learning and read up about regression 
+
+Thursday, November 20, 2014: Hours spent: 00:00
+
+Friday, November 21, 2014: Hours spent: 00:00
+
+Saturday, November 22, 2014: Hours spent: 03:30
+Worked on long term regression algorithm and sketched it.
+
+Sunday, November 23, 2014: Hours spent: 03:30
+Wrote long term regression algorithm
+
+Monday, November 24, 2014: Hours spent: 01:00
+Made button for charts and linked it with app
+
+Tuesday, November 25, 2014: Hours spent: 04:30
+Made charts, and started with matrixClass
+
+Wednesday, November 26, 2014: Hours spent: 06:00
+Finished matrixClass. Successfully made my own version of linear regression. Discarded the use of numpy. Made video for tp2 and prepared other documents for tp2.
+
+Thursday, November 27, 2014: Hours spent: 04:30
+Finished charts and started rough sketch of analysis procedure.
+
+Friday, November 28, 2014: Hours spent: 04:00
+
+Saturday, November 29, 2014: Hours spent: 06:00
+Spent time in refining algorithm and implemented it.
+
+Sunday, November 30, 2014: Hours spent: 00:00
+
+Monday, December 1, 2014: Hours spent:03:30
+Fixed a bug that I had inadvertently planted in the very initial stages of this project. Also made charts for linear regression.
+
+Tuesday, December 2, 2014: Hours spent: 05:30
+Fixed bugs that were detected in User Study-a-thon. Increased efficiency of charts. Started with adding new features like Personalize, Help, etc.
+
+Wednesday, December 3, 2014: Hours spent: 08:45
+Added Personalize, Help features. Added legends to different charts. Discovered a bug and fixed it.
+
+Thursday, December 4, 2014: Hours spent: 02:30
+Updated design documents and made readme.txt file
+Designed video and uploaded it

@@ -1,0 +1,20 @@
+Welcome to bitPredict! 
+This app was built by Shantanu Chhabra, in Fall 2014, as a Term Project for 
+15-112, Fundamentals of Programming and Computer Science, at Carnegie Mellon
+University, Pittsburgh.
+To read more about bitcoins, press B.
+This app analyzes bitcoin history and predicts the behavior of 
+bitcoins to help you make better decisions about buying, selling or waiting.
+In special cases, the algorithm tells you to wait so that you can sell at a 
+higher price or buy at a lower price based on your intention. If you press
+"FREEZE" in that special case, you will be prompted to buy/sell whenever it's 
+best suited, provided the app remains open and you stay at the Predict page. 
+To read more about the algorithm, press A
+To get the correct prediction, please refresh the data as soon as you open
+the app. This will take at most 40 seconds. You will not need to refresh the 
+data again unless you close the app. The data automatically gets updated.
+The "View Charts" button lets you view the variation of the bitcoin over the 
+past one year or six months or three months.
+Under the "Personalize" section, you can enter your Purchase History and see the
+app plot your purchase history on a graph, along with the Resistance and Support
+Lines (See algorithm for details).
